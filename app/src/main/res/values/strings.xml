@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RochRun</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signed">SIGN UP</string>
+    <string name="login">LOGIN</string>
+    <string name="already_have_an_account_login">Already have an account? LOGIN</string>
+    <string name="dont_have_an_account">Don\'t have an account? SIGN UP</string>
+    <string name="welcome">Welcome to Market Co</string>
+    <string name="checkout">CHECKOUT</string>
+    <string name="remove">REMOVE</string>
+    <string name="add">+</string>
+    <string name="_1">1</string>
+    <string name="subtract">-</string>
+    <string name="total">TOTAL: R%1$.2f</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="view_cart">VIEW CART</string>
+    <string name="thank_you_for_shopping_with_us">Thank you for shopping with us.</string>
+    <string name="order_placed_successfully">Order Placed Successfully!</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">Home</string>
+    <string name="order_history">Order History</string>
+    <string name="name">Name</string>
+    <string name="emailp">Email</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="save">Save</string>
+    <string name="enter_your_email">Enter your email</string>
+
+
+</resources>

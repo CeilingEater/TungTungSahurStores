@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71035418251",
+    "project_id": "tungtungsahurstores",
+    "storage_bucket": "tungtungsahurstores.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71035418251:android:2522be34f0ef9af106868e",
+        "android_client_info": {
+          "package_name": "com.appleeater.tungtungsahurstores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkLOpylfvJaKR-e1XxxLeKExwQuexTnAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
